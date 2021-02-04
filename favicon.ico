@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/" 
+   xmlns:cc="http://creativecommons.org/ns#" 
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+   xmlns:svg="http://www.w3.org/2000/svg" 
+   xmlns="http://www.w3.org/2000/svg" 
+   viewBox="185 3 110 110" 
+   version="1.1"
+>
+   <circle cx="240" cy="58" r="50" fill="#004267" />
+   <g fill="#ceebfa" stroke-width="0">
+      <path d="M225 97 A40.838 40.838, 0, 0 1, 266.3 25.6 A55.275 55.275, 0, 0 0, 225 97 z" />
+   </g>
+</svg>
